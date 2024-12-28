@@ -1,4 +1,5 @@
 import SideNav from '@/app/ui/dashboard/sidenav';
+// export const experimental_ppr = true; ამან არ იმუშავა, არ იტვირთება საიტი
  
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
